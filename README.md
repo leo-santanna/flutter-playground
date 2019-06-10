@@ -1,6 +1,7 @@
-# flutter_playground
+# Flutter Playground
 
-A new Flutter project.
+Welcome to training grounds. Grenades, landmines and all sort of explosive stuff awaits you. 
+Proceed at your own risk. And fun. :)
 
 ## Getting Started
 
